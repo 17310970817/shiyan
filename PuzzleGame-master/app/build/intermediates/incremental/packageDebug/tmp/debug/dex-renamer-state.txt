@@ -1,0 +1,4 @@
+#Fri Oct 15 21:12:51 CST 2021
+base.0=D\:\\PRO\\Android_example\\PuzzleGame-master\\PuzzleGame-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
